@@ -10,6 +10,12 @@ COVID -19 Emerged as a Biggest Disaster of 2020 Influencing Millions of Lives ei
   - Implemented SEIR Epidemic Model
   - Implemented SEIRD Epidemic Model
   - Implemented Prophet Model on Timeseries Data.
+  - Implemented Auto Regression Model.
+  - Implemented Simple Exponential Model.
+  - Implemented Holt's Exponential Model.
+  - Implemented Prediction by Exponential Smoothing.
+  - Implemented SARIMAX Model.
+  - Implemented Theta Model.
 
 You can also:
   - Visualize the Distribution by Bar plot or Line Plot of States of India On Given Day.
