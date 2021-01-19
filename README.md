@@ -42,10 +42,11 @@ Want to contribute? Great!
 ### Todos
 
  - Implement SEIRHD Epidemic Model
- - Implement Plotly Graphs in Colab
- - Better Build the Forms in Colab
- - Build Video from Dataset
- - Implement More Sklearn Models
+ - Implement Plotly Graphs in Colab (Done)
+ - Better Build the Forms in Colab (Done)
+ - Build Video from Dataset 
+ - Implement More Sklearn Models (Tried, Not Working)
+ - Implement LSTM Models over Data
 
 License
 ----
