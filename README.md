@@ -1,7 +1,7 @@
 # COVID (Forecasting and Visualizor)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/terminate9298/Corona-Visualization-and-Prediction)
-[![Colab Link](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HvnooQjlOgoL4mGvIG7K7ckq3cG5cyY4?usp=sharing)
+[![Colab Link](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12xjqXdRqbvx0XJ0292L-mgALqv09L7Mb?usp=sharing)
 
 COVID -19 Emerged as a Biggest Disaster of 2020 Influencing Millions of Lives either By Economy or Health. This Colab Provide some Inside of how it all started and Where are we now.
 
